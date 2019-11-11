@@ -4,4 +4,4 @@ Config_Center is simple distributed config system base on Redis Pub/Sub.
 
 system structure
 =====
-![structure](https://github.com/rubinera1n/config_center/blob/master/static/diagram.png?raw=true)
+![structure](https://github.com/rubinera1n/config_center/blob/master/static/diagram.png?raw=true){:height="50%" width="50%"}
