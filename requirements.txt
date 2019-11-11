@@ -1,5 +1,5 @@
-requests==2.8.1
+requests
 redis==2.10.5
-flask==0.12.4
+flask
 sqlalchemy
 mysql-connector
